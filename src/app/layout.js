@@ -4,8 +4,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Canva web app',
-  description: 'Canva web app',
+  title: 'canva-paint',
+  description: 'canva-paint',
 }
 
 export default function RootLayout({ children }) {

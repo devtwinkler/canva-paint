@@ -1,8 +1,8 @@
-# canva web app
+# canva-paint
 
 ## Overview
 
-Canva web app is a responsive drawing application built with Next.js, offering server-side rendering, automatic code splitting, and a powerful development environment. The application allows users to draw, select various tools, take picture with their device's camera, import images, and save their creations.
+canva-paint is a responsive drawing application built with Next.js, offering server-side rendering, automatic code splitting, and a powerful development environment. The application allows users to draw, select various tools, take picture with their device's camera, import images, and save their creations.
 
 ### Code Organization and Comments
 
@@ -80,7 +80,7 @@ Visit http://localhost:3000 in your browser.
 
 ### Application already in production on Vercel
 
-Visit [canva web app](https://canva-paint.vercel.app/)
+Visit [canva-paint](https://canva-paint.vercel.app/)
 
 ## Acknowledgments
 
@@ -94,4 +94,4 @@ Visit [canva web app](https://canva-paint.vercel.app/)
 
 ## Author
 
-- **Wael Morjen** - [GitHub Profile](https://github.com/Wael-Morjen)
+- **Denys Pyroh** - (https://denys-pyroh.vercel.app)
