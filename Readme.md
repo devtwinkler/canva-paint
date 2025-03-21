@@ -48,8 +48,8 @@ The `react-webcam` library is used to integrate webcam functionality into the ap
 ### Installation
 
 ```bash
-git clone https://github.com/Wael-Morjen/canva-web-app.git
-cd canva-web-app
+git clone https://github.com/Wael-Morjen/canva-paint.git
+cd canva-paint
 ```
 
 ### Install dependencies
